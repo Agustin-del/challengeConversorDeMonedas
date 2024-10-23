@@ -1,4 +1,8 @@
 package com.aluracursos.java.challenge1.modelos;
 
-public class Currency {
+public enum Currency {
+    USD,
+    ARS,
+    COP,
+    BRL
 }
