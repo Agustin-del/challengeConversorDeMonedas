@@ -10,3 +10,6 @@ Este proyecto utiliza la API de ExchangeRate para la conversión de divisas. Par
 1. Regístrate en [ExchangeRate API](https://www.exchangerate-api.com/) y genera tu propia API key.
 2. Crea una variable de entorno llamada `EXCHANGE_RATE_API_KEY`.
 3. ¡Listo! El proyecto buscará esa clave al ejecutar las conversiones de divisas.
+
+## Autor:
+Edmundo Agustín Rúveda
