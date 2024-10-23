@@ -3,7 +3,7 @@
 Sea bienvenido, la idea de esto fue generar un programa CLI que ofrezca conversión entre distintas monedas,<br/>
 la idea fue generar una base, se le pueden agregar funcionalidades, otras divisas, lo que usted quiera.
 
-## Configuración de la API
+## Importante <br/> Configuración de la API
 
 Este proyecto utiliza la API de ExchangeRate para la conversión de divisas. Para ejecutar este proyecto localmente, sigue estos pasos:
 
